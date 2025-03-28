@@ -6,7 +6,7 @@ toolchain go1.23.5
 
 require (
 	github.com/cjlapao/common-go v0.0.48
-	github.com/cjlapao/common-go-logger v0.0.7
+	github.com/cjlapao/common-go-logger v0.0.10
 	github.com/cjlapao/common-go-restapi v0.0.12
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/oauth2 v0.28.0
